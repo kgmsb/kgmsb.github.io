@@ -1,8 +1,30 @@
-## Welcome to GitHub Pages
+## 某融化生物的閱讀名單
 
 You can use the [editor on GitHub](https://github.com/kgmsb/kgmsb.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### 目錄
+
+惡役系
+1. [反派角色只有死亡結局](https://manwa.me/book/7154)
+2. [保護女主角哥哥的方法]
+3. 
+4. [我與惡魔的終身契約]
+5. [試着改變故事類型吧]
+6. [當惡女戀愛時]
+7. [變成伯爵家的混混]
+8. [成為小說裏的惡毒女皇]
+
+西幻系
+1. [錯誤的告白]
+2. [其實我才是正牌千金]
+3. [被皇子殿下圈粉了](https://www.cocomanga.com/17520/)
+4. [勝者為后](https://www.cocomanga.com/20340/)
+5. [騙婚也要得到你](https://www.cocomanga.com/17717/)
+
+升級系
+1. [我獨自升級](https://www.webmota.com/comic/chapter/woduzishengji-duburedicestudio_e/0_155.html)
 
 ### Markdown
 
