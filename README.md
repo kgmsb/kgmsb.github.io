@@ -23,13 +23,17 @@
 1. [我獨自升級](https://www.webmota.com/comic/chapter/woduzishengji-duburedicestudio_e/0_155.html) Kakao
 
 ### 動畫備份目錄
-1. 超譯百人一首戀歌(帳號被封了正在補救)
+1. 超譯百人一首戀歌(上載帳號被封了正在補救)
 
-### 個人妄想(無開放閱讀)
+### 個人妄想(暫無開放閱讀)
 1. 魔女的貓與不重要的謀殺案
 2. 青空落日庭園
 3. 黃金虛榮奏日
 4. 卡瑪布爾蘭史詩
 
-### 缺金住宿食譜
-[微波爐馬克杯蛋糕](https://github.com/kgmsb/kgmsb.github.io/blob/main/cupcake.md)
+### 外宿奮鬥食譜
+微波
+[馬克杯蛋糕](https://github.com/kgmsb/kgmsb.github.io/blob/main/cupcake.md)
+
+快煮鍋
+[餃子麵]
