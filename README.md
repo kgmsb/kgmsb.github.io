@@ -1,6 +1,6 @@
 ## 某融化生物的奇幻譚
 
-### 閱讀目錄
+### 漫畫閱讀目錄
 
 惡役系
 1. [反派角色只有死亡結局](https://manwa.me/book/7154)
@@ -21,6 +21,9 @@
 
 升級系
 1. [我獨自升級](https://www.webmota.com/comic/chapter/woduzishengji-duburedicestudio_e/0_155.html)
+
+### 動畫備份目錄
+1. 超譯百人一首戀歌(帳號被封了正在補救)
 
 ### 個人妄想(無開放閱讀)
 1. 魔女的貓與不重要的謀殺案
