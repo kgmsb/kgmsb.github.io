@@ -33,7 +33,8 @@
 
 ### 外宿奮鬥食譜
 微波
-[馬克杯蛋糕](https://github.com/kgmsb/kgmsb.github.io/blob/main/cupcake.md)
+1. [馬克杯蛋糕](https://github.com/kgmsb/kgmsb.github.io/blob/main/cupcake.md)
+2. [法式吐司]()
 
 快煮鍋
-[餃子麵](https://github.com/kgmsb/kgmsb.github.io/blob/main/dumpingNoodles.md)
+1. [餃子麵](https://github.com/kgmsb/kgmsb.github.io/blob/main/dumpingNoodles.md)
