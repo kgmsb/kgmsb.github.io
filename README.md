@@ -37,7 +37,7 @@
 2. [法式吐司](https://github.com/kgmsb/kgmsb.github.io/blob/main/frenchToast)
 
 微波主食
-1. [番茄焗飯](https://github.com/kgmsb/kgmsb.github.io/edit/main/dumpingNoodles.md)
+1. [番茄焗飯](https://github.com/kgmsb/kgmsb.github.io/blob/main/bakedTomatoFriedRice.md)
 
 快煮鍋
 1. 
