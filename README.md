@@ -33,7 +33,7 @@
 
 ### 外宿奮鬥食譜
 微波甜品
-1. [花生醬蛋糕](https://github.com/kgmsb/kgmsb.github.io/blob/main/cupcake.md)
+1. [無麵粉無糖蛋糕](https://github.com/kgmsb/kgmsb.github.io/blob/main/cupcake.md)
 2. [法式吐司](https://github.com/kgmsb/kgmsb.github.io/blob/main/frenchToast)
 
 微波主食
