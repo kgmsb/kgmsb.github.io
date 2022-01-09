@@ -32,9 +32,12 @@
 4. 卡瑪布爾蘭史詩
 
 ### 外宿奮鬥食譜
-微波
+微波甜品
 1. [花生醬蛋糕](https://github.com/kgmsb/kgmsb.github.io/blob/main/cupcake.md)
 2. [法式吐司](https://github.com/kgmsb/kgmsb.github.io/blob/main/frenchToast)
+
+微波主食
+1. [番茄焗飯](https://github.com/kgmsb/kgmsb.github.io/edit/main/dumpingNoodles.md)
 
 快煮鍋
 1. 
